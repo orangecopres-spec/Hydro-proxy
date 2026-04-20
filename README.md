@@ -3,7 +3,7 @@ This is the Hydro-proxy guide.
 How to run hydro-proxy
 So what you do is you unzip the Hydro-proxy.zip then you make gradelw executable then you do ./gradelw run
 
-Just to lit you know hydro proxy supports any version of minecraft
+Just to lit you know hydro proxy supports any version of minecraft anda http and tcp and udp 
 
 how to change the backend servers:
 open ~/hydro-proxy/src/main/java/com/hydroproxy/HydroProxy.java then find     // Proxy listen port
